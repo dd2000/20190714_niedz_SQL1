@@ -1,0 +1,24 @@
+﻿W ramach tego ćwiczenia należy przyogotwać program w Javie z użyciem JDBC z 
+interfejsem tekstowym który pozwoli na:
+- rejestrację osoby odwiedzającej serwis
+- wyszukanie filmów po pierwszych literach nazwy filmu
+- symulacja 'pobrania filmu', zwracany jest ścieżka do filmu i tworzony jest wiersz informaujący o pobraniu filmu
+- wyświetlenie wszystkich pobrane filmy przez użytkownika o wybranym ID
+- wyszukanie klienta po imieniu albo/i nazwisku
+- możliwość zmiany imienia i nazwiska w oparciu o numer ID
+- istnieje możliwośc skasowania użytkownika po ID
+
+Wygląd interfejsu:
+1) Rejestracja użytkownika
+2) Wyszukanie filmu
+3) Pobranie filmu
+4) Wyświetl pobrane film
+5) Wyszukanie klienta
+6) Zmiana imienia i nazwiska dla podaengo klienta (podane ID)
+7) Skasowanie użytkownika
+Podaj numer> 
+
+Definicje filmów należy stworzyć z użyciem MsqlWorkbench również dane testowe w każdej tabeli powinnby być stworzone 
+w ramach skryptu tworzącego strukturę bazy danych.
+
+Ze względu na to, że skupiamy się na obsłudze danych,  każda z funkcji może być metodą w klasie main() - czyli tworzymy program najprościej jak się da.

@@ -2,12 +2,31 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e01413-baa8-4207-b78d-e5cf585f3394" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20190714_niedziela_SQL1.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia0_BAZA_DO_CWICZEN_OK.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3_SystemKontrola.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3_SystemKontrola_BezConstraint.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia4.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia5.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia6_BazaDanych.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia7_SystemKontrola_cz_1.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia7_SystemKontrola_cz_2.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenie8.docx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenie9.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/1_Przyklad_JDBC_Polaczenie_do_bazy/JdbcExample_1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/2_Przyklad_JDBC_PROSTY_SELECT/JdbcExample2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/3_Przyklad_JDBC_SELECT_All/JdbcExample_3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/4_Przyklad_JDBC_INSERT/JdbcExample_4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/5_Przyklad_JDBC_INSERT_AUTO_INCREMENT/App.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/Przyklad_ReadLine/ReadLineEx.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz1a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz2a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz3a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz4a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz5a.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz9.pdf" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -17,11 +36,32 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="DefaultGradleProjectSettings">
+    <option name="testRunner" value="GRADLE" />
+    <option name="delegatedBuild" value="true" />
+  </component>
   <component name="FileEditorManager">
-    <leaf />
+    <leaf>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/test_txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="27">
+              <caret line="1" selection-start-line="1" selection-end-line="1" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/test_txt" />
+      </list>
+    </option>
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -35,7 +75,9 @@
     <option name="width" value="1400" />
     <option name="height" value="1000" />
   </component>
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectView">
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
@@ -58,7 +100,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="C:/gitos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
   <component name="RunDashboard">
@@ -84,6 +126,14 @@
       <option name="presentableId" value="Default" />
       <updated>1563090050625</updated>
     </task>
+    <task id="LOCAL-00001" summary="SQL1">
+      <created>1563090683359</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1563090683359</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -117,11 +167,22 @@
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
   </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SQL1" />
+    <option name="LAST_COMMIT_MESSAGE" value="SQL1" />
+  </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="297">
           <caret line="11" column="10" lean-forward="true" selection-start-line="11" selection-start-column="10" selection-end-line="11" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/test_txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="27">
+          <caret line="1" selection-start-line="1" selection-end-line="1" />
         </state>
       </provider>
     </entry>
