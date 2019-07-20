@@ -2,31 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="94e01413-baa8-4207-b78d-e5cf585f3394" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia0_BAZA_DO_CWICZEN_OK.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3_SystemKontrola.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia3_SystemKontrola_BezConstraint.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia4.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia5.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia6_BazaDanych.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia7_SystemKontrola_cz_1.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenia7_SystemKontrola_cz_2.sql" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenie8.docx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Cwiczenie9.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/1_Przyklad_JDBC_Polaczenie_do_bazy/JdbcExample_1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/2_Przyklad_JDBC_PROSTY_SELECT/JdbcExample2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/3_Przyklad_JDBC_SELECT_All/JdbcExample_3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/4_Przyklad_JDBC_INSERT/JdbcExample_4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/5_Przyklad_JDBC_INSERT_AUTO_INCREMENT/App.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/MaterialyDlaKursantow_bez_odpowiedzi/Zadanie_Java/Przyklad_ReadLine/ReadLineEx.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz1a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz2a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz3a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz4a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz5a.pdf" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/PDF/RelacyjneBazyDanych_cz9.pdf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Cwiczenia7_SystemKontrola_cz_2 (1).sql" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -41,17 +18,7 @@
     <option name="delegatedBuild" value="true" />
   </component>
   <component name="FileEditorManager">
-    <leaf>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/test_txt">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="27">
-              <caret line="1" selection-start-line="1" selection-end-line="1" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-    </leaf>
+    <leaf />
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -103,6 +70,11 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="configurable.group.other" />
   </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\JAVA_SDA\20190714_niedziela_SQL1" />
+    </key>
+  </component>
   <component name="RunDashboard">
     <option name="ruleStates">
       <list>
@@ -133,23 +105,34 @@
       <option name="project" value="LOCAL" />
       <updated>1563090683359</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="SQL1">
+      <created>1563090973197</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1563090973197</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SQL1">
+      <created>1563096966348</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1563096966348</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info id="Favorites" side_tool="true" />
-      <window_info id="Image Layers" />
-      <window_info id="Designer" />
-      <window_info id="UI Designer" />
-      <window_info id="Capture Tool" />
-      <window_info id="Learn" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25266525" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
-      <window_info anchor="bottom" id="Version Control" />
-      <window_info anchor="bottom" id="Terminal" />
-      <window_info anchor="bottom" id="Event Log" side_tool="true" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="Capture Tool" order="4" />
+      <window_info id="UI Designer" order="5" />
+      <window_info id="Learn" order="6" />
+      <window_info id="Favorites" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
       <window_info anchor="bottom" id="Run" order="2" />
@@ -157,14 +140,17 @@
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="right" id="Palette" />
-      <window_info anchor="right" id="Theme Preview" />
-      <window_info anchor="right" id="Maven" />
-      <window_info anchor="right" id="Capture Analysis" />
-      <window_info anchor="right" id="Palette&#9;" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" side_tool="true" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven" order="4" />
+      <window_info anchor="right" id="Theme Preview" order="5" />
+      <window_info anchor="right" id="Capture Analysis" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
     </layout>
   </component>
   <component name="VcsManagerConfiguration">
@@ -179,13 +165,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/test_txt">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="27">
-          <caret line="1" selection-start-line="1" selection-end-line="1" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/test_txt" />
   </component>
   <component name="masterDetails">
     <states>
